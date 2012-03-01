@@ -6,7 +6,7 @@
 *********All Rights Reserved.************
 *****************************************/
 
-Password Generating Library for the C Programming Language
+Secure Password Generating Library for the C Programming Language
 
 
 void init_rand(void);
